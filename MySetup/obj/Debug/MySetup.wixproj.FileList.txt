@@ -1,0 +1,7 @@
+C:\Users\Bernard Lao\Documents\Visual Studio 2012\Projects\LaoBernardBSCS3A_AdvDBMS_PrelimExam\MySetup\bin\Debug\cab1.cab
+C:\Users\Bernard Lao\Documents\Visual Studio 2012\Projects\LaoBernardBSCS3A_AdvDBMS_PrelimExam\MySetup\bin\Debug\MySetup.msi
+C:\Users\Bernard Lao\Documents\Visual Studio 2012\Projects\LaoBernardBSCS3A_AdvDBMS_PrelimExam\MySetup\bin\Debug\MySetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\MySetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\MySetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\MySetup.wixproj.BindBuiltOutputsFileListnull.txt

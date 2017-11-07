@@ -1,0 +1,2 @@
+C:\Users\Bernard Lao\Documents\Visual Studio 2012\Projects\LaoBernardBSCS3A_AdvDBMS_PrelimExam\LaoBernardBSCS3A_AdvDBMS_Ass1\bin\Debug\LaoBernardBSCS3A_AdvDBMS_Ass1.exe
+C:\Users\Bernard Lao\Documents\Visual Studio 2012\Projects\LaoBernardBSCS3A_AdvDBMS_PrelimExam\LaoBernardBSCS3A_AdvDBMS_Ass1\bin\Debug\LaoBernardBSCS3A_AdvDBMS_Ass1.exe.config
